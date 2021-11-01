@@ -1,0 +1,52 @@
+package test_p7;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;;
+public class code 
+{
+
+	public static void main(String[] args) 
+	{
+		// TODO Auto-generated method stub
+		System.out.println("½Ð¿é¤J");
+		
+		BufferedReader br1 =
+				new BufferedReader(new InputStreamReader(System.in);
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+
+}
